@@ -1,5 +1,15 @@
 import React, {Component} from 'react';
-import {ActivityIndicator, Button, NetInfo, PermissionsAndroid, StyleSheet, Text, TextInput, View} from 'react-native';
+import {
+    ActivityIndicator,
+    Button,
+    NetInfo,
+    PermissionsAndroid,
+    StyleSheet,
+    Text,
+    TextInput,
+    ToastAndroid,
+    View
+} from 'react-native';
 import {Icon} from 'react-native-elements'
 
 import {connect} from 'react-redux';
@@ -11,14 +21,23 @@ class KnexForm extends Component {
 
 
     saveUserInfo = (personIndex) => {
-        this.props.dispatch(savePerson({
-            index: personIndex,
-            name: this.state.name,
-            latitude: !isEmpty(this.state.latitude) ? this.state.latitude : null,
-            longitude: !isEmpty(this.state.longitude) ? this.state.longitude : null,
-            time_rec: getUnixTimestamp(),
-            time_trans: getUnixTimestamp()
-        }));
+
+        if (isEmpty(this.state.name)) {
+            ToastAndroid.show('Can we have your name please', ToastAndroid.SHORT);
+        } else {
+            this.props.dispatch(savePerson({
+                index: personIndex,
+                name: this.state.name,
+                latitude: !isEmpty(this.state.latitude) ? this.state.latitude : null,
+                longitude: !isEmpty(this.state.longitude) ? this.state.longitude : null,
+                time_rec: getUnixTimestamp(),
+                time_trans: getUnixTimestamp()
+            }));
+            this.clearState();
+
+        }
+
+
     };
 
 
@@ -159,7 +178,6 @@ class KnexForm extends Component {
                         color="#841584"
                         onPress={() => {
                             this.saveUserInfo(personIndex);
-                            this.clearState();
                         }}
                     />}
 
