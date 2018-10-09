@@ -76,19 +76,24 @@ class KnexForm extends Component {
     }
 
     componentWillMount() {
+        NetInfo.isConnected.fetch().then(isConnected => {
+            console.log(isConnected);
+            this.props.dispatch(connectionState({status: isConnected}));
+        });
         this.requestLocationPermission();
     }
 
     componentDidMount() {
+        NetInfo.isConnected.fetch().then(isConnected => {
+            this.props.dispatch(connectionState({status: isConnected}));
+        });
         NetInfo.isConnected.addEventListener('change', this._handleConnectionChange);
         this.getLocation();
     }
 
     getLocation() {
-        console.log(navigator);
         this.watchId = navigator.geolocation.getCurrentPosition(
             (position) => {
-                console.log(position)
                 this.setState({
                     latitude: position.coords.latitude,
                     longitude: position.coords.longitude,

@@ -2,67 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/OfflineActions/react-native-vector-icons/unspecified/jars/classes.jar"
+        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="11c2bc0493f3b9407e658077a52b1d2927a6cce3">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-797eb513e192b833cd73a3493932c311a73460e2.jar" />
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-cda8602fe73eae4884fc695ff5658f258da974a2.jar" />
     </item>
     <item
-        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-b17969c68482b535879a4605cd1cbd88784604c6.jar" />
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-b801455c20f04a5afb3b516c371168da7dbd33e2.jar" />
     </item>
     <item
-        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-f1f41ac6b18fd16e016be6eef2bd415d78c28f05.jar" />
-    </item>
-    <item
-        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-07fdeeab8b6198baa561bc990ba324e917249eff.jar" />
-    </item>
-    <item
-        jar="/Users/trinadhkoya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-ac2b28ff8ec6c0128559778db6eaa4d3afb203bb.jar" />
-    </item>
-    <item
-        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-307b7577547e0b7c782bb246a60b1a4355fcc55d.jar" />
-    </item>
-    <item
-        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-f4cf1174c9ef5cb8adf01653054dcecb0b8ff1d9.jar" />
-    </item>
-    <item
-        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-acc2773be4bb1572374dd5ee4da9aafea196b479.jar" />
-    </item>
-    <item
-        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-4df66e4250276ee826730366576794a0bb85ade2.jar" />
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-c700967ee445511fc301ac76e32a8636e9f647f8.jar" />
     </item>
     <item
         jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
@@ -93,27 +51,6 @@
         <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-54da777988ed215c1b27146c8987346a45414ad7.jar" />
     </item>
     <item
-        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-b54342466d8d980f2343ce34cd88672fe5d057b9.jar" />
-    </item>
-    <item
-        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-b801455c20f04a5afb3b516c371168da7dbd33e2.jar" />
-    </item>
-    <item
-        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-c700967ee445511fc301ac76e32a8636e9f647f8.jar" />
-    </item>
-    <item
         jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -121,25 +58,32 @@
         <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-de6a1a952fa295b2a57ca0e9bd576b7294d83424.jar" />
     </item>
     <item
-        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-26cabd1e33aad830abbcacf2e7e927b937f743e1.jar" />
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-f1f41ac6b18fd16e016be6eef2bd415d78c28f05.jar" />
     </item>
     <item
-        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/jars/classes.jar"
+        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="45b2c107c63eeed4a35c2d1d5d61783b194cbcd5">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-e1fec66226bca7e8df83e5ab8967734293a02ae0.jar" />
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-b17969c68482b535879a4605cd1cbd88784604c6.jar" />
     </item>
     <item
-        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/jars/libs/infer-annotations-1.5.jar"
+        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="3ac8871b8dca7d0750bca6cd92aedec19d07d3ef">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-1e266c9a83197f1917d7049215fe032f3293f862.jar" />
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-acc2773be4bb1572374dd5ee4da9aafea196b479.jar" />
+    </item>
+    <item
+        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-b54342466d8d980f2343ce34cd88672fe5d057b9.jar" />
     </item>
     <item
         jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
@@ -149,11 +93,25 @@
         <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-a9e3706fc6cb955e774584bb75a19777bf98d89d.jar" />
     </item>
     <item
-        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
-        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-cda8602fe73eae4884fc695ff5658f258da974a2.jar" />
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-07fdeeab8b6198baa561bc990ba324e917249eff.jar" />
+    </item>
+    <item
+        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-f4cf1174c9ef5cb8adf01653054dcecb0b8ff1d9.jar" />
+    </item>
+    <item
+        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="45b2c107c63eeed4a35c2d1d5d61783b194cbcd5">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-e1fec66226bca7e8df83e5ab8967734293a02ae0.jar" />
     </item>
     <item
         jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
@@ -168,6 +126,48 @@
         revision="23.0.1"
         sha1="1137942adeb03984c1311b662363dd38fc238fd3">
         <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-c4080602bcd6451b11f2d911739c931351d4e347.jar" />
+    </item>
+    <item
+        jar="/Users/trinadhkoya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-ac2b28ff8ec6c0128559778db6eaa4d3afb203bb.jar" />
+    </item>
+    <item
+        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-4df66e4250276ee826730366576794a0bb85ade2.jar" />
+    </item>
+    <item
+        jar="/Users/trinadhkoya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-307b7577547e0b7c782bb246a60b1a4355fcc55d.jar" />
+    </item>
+    <item
+        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/OfflineActions/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3c67f78a7ca0b4f3f6c6bd4f63b6ffefd623a61">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-797eb513e192b833cd73a3493932c311a73460e2.jar" />
+    </item>
+    <item
+        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.39.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3ac8871b8dca7d0750bca6cd92aedec19d07d3ef">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-1e266c9a83197f1917d7049215fe032f3293f862.jar" />
+    </item>
+    <item
+        jar="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/trinadhkoya/KnexOfflineApp/android/app/build/intermediates/pre-dexed/debug/classes-26cabd1e33aad830abbcacf2e7e927b937f743e1.jar" />
     </item>
 
 </items>
